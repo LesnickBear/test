@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hallow beach
+=======
+Hello world
+my name is Vova
+and my friends name is Maxim
+>>>>>>> e538e635bd32563b037a27aa4077b5d07149cc79
